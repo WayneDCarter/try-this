@@ -1,11 +1,16 @@
-<<<<<<< HEAD
-hello world
+P1
 # try-this
-=======
-# try-this
-try this also
-whats this doing
-this also 
-this to trial 
->>>>>>> c58b457f5a22337777d6474fd3ed37d70c4dac74
-Hello world
+#try this also
+#whats this doing
+#this also 
+#this to trial 
+#Hello world
+#Steffen Was here.
+#Now this is an image file
+5 5
+0 0 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+
